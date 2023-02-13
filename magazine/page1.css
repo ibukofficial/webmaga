@@ -4,3 +4,20 @@
     background: #f2f2f2;
     text-align:center
   }
+  .container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .main-contents {
+    width: 55%;
+    padding: 10px;
+    background-color: #ccc;
+  }
+  .left-menu,
+  .right-menu {
+    width: 15%;
+    padding: 10px;
+    background-color: #faa;
+  }
