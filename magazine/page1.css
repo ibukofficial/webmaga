@@ -9,7 +9,7 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    opacity: 0.2;
+   
   }
   .main-contents {
     width: 55%;
@@ -21,7 +21,13 @@
     width: 25%;
     padding: 10px;
     background-color: #faa;
-    
+    opacity: 0.0;
+  }
+  .right-menu:hover{
+    opacity: 0.2;
+    width: 25%;
+    padding: 10px;
+    background-color: #faa;
   }
   body{
     user-select:none;
