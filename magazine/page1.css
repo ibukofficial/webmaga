@@ -20,4 +20,14 @@
     width: 25%;
     padding: 10px;
     background-color: #faa;
+    opacity: 0.2;
   }
+  body{
+    user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select: none;
+    -moz-user-select:none;
+    -khtml-user-select:none;
+    -webkit-user-drag:none;
+    -khtml-user-drag:none;
+    }
