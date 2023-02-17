@@ -24,10 +24,9 @@
     opacity: 1.0;
   }
   .right-menu:hover{
-    opacity: 0.2;
     width: 25%;
     padding: 10px;
-    background-color: #faa;
+    background-color: rgb(255, 0, 0);
   }
   body{
     user-select:none;
