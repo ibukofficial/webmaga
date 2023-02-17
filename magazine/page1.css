@@ -21,7 +21,7 @@
     width: 25%;
     padding: 10px;
     background-color: #faa;
-    opacity: 0.0;
+    opacity: 1.0;
   }
   .right-menu:hover{
     opacity: 0.2;
