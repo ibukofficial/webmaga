@@ -4,8 +4,22 @@
         <title>キル集依頼ページ</title>
     </head>
     <body>
-        <form name="contact" method="post">
-            <
+        <form name="contact" method="post" data-netlify="true">
+            <p>
+                <label for="name">SNS活動名</label>
+                <input type="text" id="name" name="name" />
+            </p>
+            <p>
+                <label for="TwitterID">TwitterID</label>
+                <input type="text" id="ID" name="ID" />
+            </p>
+            <p>
+                <label for="message">メッセージ</label>
+                <textarea id="message" name="message"></textarea>
+            </p>
+            <p>
+                <button type="submit">送信</button>
+            </p>
         </form>
     </body>
 </html>
