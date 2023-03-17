@@ -26,7 +26,7 @@
   .right-menu:hover{
     width: 25%;
     padding: 10px;
-    background-color: rgb(255, 82, 82);
+    background-color: rgb(255, 217, 217);
   }
   body{
     user-select:none;
